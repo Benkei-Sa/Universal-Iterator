@@ -27,6 +27,7 @@ func iterate(it iterator) {
 Sample Input:
 
 1 2 3 4 5
+
 Sample Output:
 
 1
